@@ -19,14 +19,12 @@ namespace xox_oyunu
             {
                 if (tahta[r, 0] == 1 && tahta[r, 1] == 1 && tahta[r, 2] == 1)
                 {
-                    //MessageBox.Show("Oyuncu 1 kazandý");
                     label1.Text = "Oyuncu 1 Kazandý";
                     ilkoyuncu++;
                     label4.Text = ilkoyuncu.ToString();
                 }
                 if (tahta[r, 0] == 2 && tahta[r, 1] == 2 && tahta[r, 2] == 2)
                 {
-                    //MessageBox.Show("Oyuncu 2 kazandý");
                     label1.Text = "Oyuncu 2 Kazandý";
                     ikincioyuncu++;
                     label5.Text = ikincioyuncu.ToString();
