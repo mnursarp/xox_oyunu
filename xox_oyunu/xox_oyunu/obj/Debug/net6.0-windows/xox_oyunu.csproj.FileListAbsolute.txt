@@ -1,0 +1,17 @@
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\bin\Debug\net6.0-windows\xox_oyunu.exe
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\bin\Debug\net6.0-windows\xox_oyunu.deps.json
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\bin\Debug\net6.0-windows\xox_oyunu.runtimeconfig.json
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\bin\Debug\net6.0-windows\xox_oyunu.dll
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\bin\Debug\net6.0-windows\xox_oyunu.pdb
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\obj\Debug\net6.0-windows\xox_oyunu.csproj.AssemblyReference.cache
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\obj\Debug\net6.0-windows\xox_oyunu.Form1.resources
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\obj\Debug\net6.0-windows\xox_oyunu.csproj.GenerateResource.cache
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\obj\Debug\net6.0-windows\xox_oyunu.GeneratedMSBuildEditorConfig.editorconfig
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\obj\Debug\net6.0-windows\xox_oyunu.AssemblyInfoInputs.cache
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\obj\Debug\net6.0-windows\xox_oyunu.AssemblyInfo.cs
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\obj\Debug\net6.0-windows\xox_oyunu.csproj.CoreCompileInputs.cache
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\obj\Debug\net6.0-windows\xox_oyunu.dll
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\obj\Debug\net6.0-windows\refint\xox_oyunu.dll
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\obj\Debug\net6.0-windows\xox_oyunu.pdb
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\obj\Debug\net6.0-windows\xox_oyunu.genruntimeconfig.cache
+D:\#NUR SARP\ANKARA MEDİPOL\csprojelerim\xox_oyunu\xox_oyunu\obj\Debug\net6.0-windows\ref\xox_oyunu.dll
